@@ -1,0 +1,15 @@
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.AssemblyInfoInputs.cache
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.AssemblyInfo.cs
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.csproj.CoreCompileInputs.cache
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.sourcelink.json
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\bin\Debug\net8.0\mis-221-lab-4-ccsmith33.exe
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\bin\Debug\net8.0\mis-221-lab-4-ccsmith33.deps.json
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\bin\Debug\net8.0\mis-221-lab-4-ccsmith33.runtimeconfig.json
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\bin\Debug\net8.0\mis-221-lab-4-ccsmith33.dll
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\bin\Debug\net8.0\mis-221-lab-4-ccsmith33.pdb
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.dll
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\refint\mis-221-lab-4-ccsmith33.dll
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.pdb
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\mis-221-lab-4-ccsmith33.genruntimeconfig.cache
+C:\Users\clays\Desktop\221-labs\lab4\mis-221-lab-4-ccsmith33\obj\Debug\net8.0\ref\mis-221-lab-4-ccsmith33.dll
